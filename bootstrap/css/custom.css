@@ -1,0 +1,36 @@
+.d-none{
+    display: none;
+}
+.ml-5{
+    margin-left:5px !important;
+}
+.mt-5{
+    margin-top:5px !important;
+}
+.mb-5{
+    margin-bottom:5px !important;
+}
+.newsletter {
+    background-color:white !important;
+}
+.newsletter-title{
+     color: black !important;
+}
+.newsletter .newsletter-inner form button {
+    background-color: #ffdf00 !important;
+    color: black  !important;
+}
+.footer{
+        background-color: white !important;
+    color: black  !important;
+}
+.footer .company__desc {
+    color:black !important;
+}
+.fa, .fas {
+ color:black !important;
+}
+.header_account_area {
+ color:black !important;
+}
+    
